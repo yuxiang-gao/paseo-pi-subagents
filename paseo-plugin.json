@@ -1,0 +1,8 @@
+{
+  "id": "pi-subagents",
+  "name": "Pi Subagents",
+  "description": "Live background runs, child output, steering and stop controls for pi-subagents.",
+  "requirements": {
+    "paseo": ">=0.12.0"
+  }
+}
