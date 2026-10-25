@@ -1,6 +1,6 @@
 # Pi Subagents for Paseo
 
-A friendly Paseo plugin for seeing and managing [pi-subagents](https://github.com/nicolo-ribaudo/pi-subagents) background work.
+A friendly Paseo plugin for seeing and managing [pi-subagents](https://github.com/nicobailon/pi-subagents) background work.
 
 Pi Subagents adds a small fleet view to Paseo so you can answer questions like:
 
